@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/superhero-front/static/css/main.7acaea2f.css",
+    "main.js": "/superhero-front/static/js/main.07d3183d.js",
+    "index.html": "/superhero-front/index.html",
+    "main.7acaea2f.css.map": "/superhero-front/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/superhero-front/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
